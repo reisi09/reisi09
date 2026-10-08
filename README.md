@@ -13,7 +13,7 @@
     src="https://komarev.com/ghpvc/?username=reisi09&color=blue&style=flat-square"
     alt="Visitors"
   />
-  <a href="https://reisi09.github.io/wusuk.com">
+  <a href="https://reisi09.github.io/wuseok.com">
     <img
       src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-24EFF7?style=flat-square&logo=githubpages&logoColor=black"
       alt="View my portfolio"
